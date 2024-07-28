@@ -1,3 +1,6 @@
+
+
+
 const puzzleContainer = document.getElementById('puzzle-container');
 const pieces = Array.from(puzzleContainer.children);
 let emptyIndex = 8;
